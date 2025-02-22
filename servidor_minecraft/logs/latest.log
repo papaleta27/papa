@@ -1,43 +1,28 @@
-[21:36:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:36:52] [ServerMain/INFO]: Loaded 1337 recipes
-[21:36:52] [ServerMain/INFO]: Loaded 1448 advancements
-[21:36:52] [Server thread/INFO]: Starting minecraft server version 1.21.2
-[21:36:52] [Server thread/INFO]: Loading properties
-[21:36:52] [Server thread/INFO]: Default game type: SURVIVAL
-[21:36:52] [Server thread/INFO]: Generating keypair
-[21:36:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:36:53] [Server thread/INFO]: Using epoll channel type
-[21:36:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:36:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:36:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:36:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:36:53] [Server thread/INFO]: Preparing level "world"
-[21:36:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:36:56] [Server thread/INFO]: Time elapsed: 2997 ms
-[21:36:56] [Server thread/INFO]: Done (3.334s)! For help, type "help"
-[21:37:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:38:51] [Server thread/INFO]: Papaleta_pro284[/127.52.12.241:40701] logged in with entity id 27 at (-162.79245339056243, 67.0, 814.1028773728484)
-[21:38:51] [Server thread/INFO]: Papaleta_pro284 joined the game
-[21:40:10] [Server thread/INFO]: Papaleta_pro284 drowned while trying to escape Drowned
-[21:47:03] [Server thread/INFO]: Papaleta_pro284 lost connection: Disconnected
-[21:47:03] [Server thread/INFO]: Papaleta_pro284 left the game
-[21:48:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:53:44] [Server thread/INFO]: Papaleta_pro284[/127.52.12.241:32913] logged in with entity id 2148 at (-259.26607254851024, 66.0, 344.4200518470609)
-[21:53:44] [Server thread/INFO]: Papaleta_pro284 joined the game
-[21:57:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_boat' in progress file ./world/advancements/0c562939-5254-36da-89fa-7434536b5d44.json - it doesn't exist anymore?
-[21:57:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_chest_boat' in progress file ./world/advancements/0c562939-5254-36da-89fa-7434536b5d44.json - it doesn't exist anymore?
-[21:57:12] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
-[21:57:12] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_chest_boat] removed now.
-[21:57:12] [Server thread/INFO]: Matthiu[/127.2.12.105:52313] logged in with entity id 3013 at (913.7207963372905, 67.84375002384186, -7450.897943284696)
-[21:57:12] [Server thread/INFO]: Matthiu joined the game
-[21:57:39] [Server thread/INFO]: Matthiu lost connection: Disconnected
-[21:57:39] [Server thread/INFO]: Matthiu left the game
-[22:03:20] [Server thread/INFO]: Matthiu[/127.2.12.105:59709] logged in with entity id 4480 at (913.7631198493016, 67.84375002384186, -7450.6982421875)
-[22:03:20] [Server thread/INFO]: Matthiu joined the game
-[22:07:23] [Server thread/INFO]: Villager cpi['Farmer'/2219, l='ServerLevel[world]', x=-260.91, y=64.19, z=341.18] died, message: 'Farmer suffocated in a wall'
+[22:19:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:19:20] [ServerMain/INFO]: Loaded 1337 recipes
+[22:19:20] [ServerMain/INFO]: Loaded 1448 advancements
+[22:19:20] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[22:19:20] [Server thread/INFO]: Loading properties
+[22:19:20] [Server thread/INFO]: Default game type: SURVIVAL
+[22:19:20] [Server thread/INFO]: Generating keypair
+[22:19:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:19:20] [Server thread/INFO]: Using epoll channel type
+[22:19:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:19:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:19:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:19:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:19:20] [Server thread/INFO]: Preparing level "world"
+[22:19:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:26] [Server thread/INFO]: Time elapsed: 4789 ms
+[22:19:26] [Server thread/INFO]: Done (5.137s)! For help, type "help"
+[22:20:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
