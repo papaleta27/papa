@@ -30,3 +30,14 @@
 [21:48:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [21:53:44] [Server thread/INFO]: Papaleta_pro284[/127.52.12.241:32913] logged in with entity id 2148 at (-259.26607254851024, 66.0, 344.4200518470609)
 [21:53:44] [Server thread/INFO]: Papaleta_pro284 joined the game
+[21:57:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_boat' in progress file ./world/advancements/0c562939-5254-36da-89fa-7434536b5d44.json - it doesn't exist anymore?
+[21:57:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_chest_boat' in progress file ./world/advancements/0c562939-5254-36da-89fa-7434536b5d44.json - it doesn't exist anymore?
+[21:57:12] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
+[21:57:12] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_chest_boat] removed now.
+[21:57:12] [Server thread/INFO]: Matthiu[/127.2.12.105:52313] logged in with entity id 3013 at (913.7207963372905, 67.84375002384186, -7450.897943284696)
+[21:57:12] [Server thread/INFO]: Matthiu joined the game
+[21:57:39] [Server thread/INFO]: Matthiu lost connection: Disconnected
+[21:57:39] [Server thread/INFO]: Matthiu left the game
+[22:03:20] [Server thread/INFO]: Matthiu[/127.2.12.105:59709] logged in with entity id 4480 at (913.7631198493016, 67.84375002384186, -7450.6982421875)
+[22:03:20] [Server thread/INFO]: Matthiu joined the game
+[22:07:23] [Server thread/INFO]: Villager cpi['Farmer'/2219, l='ServerLevel[world]', x=-260.91, y=64.19, z=341.18] died, message: 'Farmer suffocated in a wall'
