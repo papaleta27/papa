@@ -2245,6 +2245,7 @@
   "minecraft:husbandry/whole_pack": {
     "criteria": {
       "minecraft:spotted": "2025-02-22 03:53:45 +0000",
+      "minecraft:woods": "2025-02-23 02:22:08 +0000",
       "minecraft:ashen": "2025-02-22 05:26:57 +0000"
     },
     "done": false
@@ -2396,6 +2397,36 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-22 22:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-23 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-02-23 02:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-23 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-23 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-23 02:35:26 +0000"
     },
     "done": true
   },

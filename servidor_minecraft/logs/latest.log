@@ -1,28 +1,36 @@
-[22:19:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:19:20] [ServerMain/INFO]: Loaded 1337 recipes
-[22:19:20] [ServerMain/INFO]: Loaded 1448 advancements
-[22:19:20] [Server thread/INFO]: Starting minecraft server version 1.21.2
-[22:19:20] [Server thread/INFO]: Loading properties
-[22:19:20] [Server thread/INFO]: Default game type: SURVIVAL
-[22:19:20] [Server thread/INFO]: Generating keypair
-[22:19:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:19:20] [Server thread/INFO]: Using epoll channel type
-[22:19:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:19:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:19:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:19:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:19:20] [Server thread/INFO]: Preparing level "world"
-[22:19:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:26] [Server thread/INFO]: Time elapsed: 4789 ms
-[22:19:26] [Server thread/INFO]: Done (5.137s)! For help, type "help"
-[22:20:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:24:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:24:29] [ServerMain/INFO]: Loaded 1337 recipes
+[03:24:29] [ServerMain/INFO]: Loaded 1448 advancements
+[03:24:30] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[03:24:30] [Server thread/INFO]: Loading properties
+[03:24:30] [Server thread/INFO]: Default game type: SURVIVAL
+[03:24:30] [Server thread/INFO]: Generating keypair
+[03:24:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:24:30] [Server thread/INFO]: Using epoll channel type
+[03:24:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:24:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:24:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:24:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:24:30] [Server thread/INFO]: Preparing level "world"
+[03:24:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:24:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:24:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:24:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:24:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:24:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:24:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:24:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:24:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:24:34] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[03:24:35] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[03:24:35] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[03:24:36] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[03:24:36] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[03:24:36] [Server thread/INFO]: Time elapsed: 6277 ms
+[03:24:36] [Server thread/INFO]: Done (6.542s)! For help, type "help"
+[03:24:37] [Server thread/INFO]: Papaleta_pro284[/127.52.12.241:39771] logged in with entity id 25 at (-285.7813639486394, 63.0, 334.4575129255047)
+[03:24:37] [Server thread/INFO]: Papaleta_pro284 joined the game
+[03:24:41] [Server thread/INFO]: Papaleta_pro284 tried to swim in lava
+[03:25:29] [Server thread/INFO]: Papaleta_pro284 lost connection: Disconnected
+[03:25:29] [Server thread/INFO]: Papaleta_pro284 left the game
+[03:26:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
